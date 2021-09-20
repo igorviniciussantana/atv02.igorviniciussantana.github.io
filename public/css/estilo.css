@@ -1,0 +1,84 @@
+body{
+background-color: #010326
+
+}
+
+.title{
+font-size: 100px;
+color: #EAF205;
+font-weight: bolder
+
+}
+
+.subtitle{
+color: #02735E;
+
+
+
+}
+
+.button{
+text-align: center;
+background-color:  #02735E;
+color:white;
+text-decoration: none;
+font-weight: bolder
+}
+
+.button:hover{
+color:gray;
+
+
+
+}
+
+
+.notTitle{
+color: #EAF205;
+font-weight: bold;
+text-decoration: none;
+
+}
+
+.notSubTitle{
+color: rgb(255, 255, 255);
+
+
+
+}
+
+.notImg{
+
+width: 100%;
+
+
+}
+
+.title2{
+font-size: 75px;
+color: #EAF205;
+font-weight: bolder
+
+}
+
+.sub2{
+color:#02735E
+
+
+
+}
+
+.txtNot{
+color:white;
+text-align: justify;
+font-weight: 500
+
+}
+
+.back{
+background-color:  #02735E;
+color:white;
+text-decoration: none;
+font-weight: bold;
+
+}
